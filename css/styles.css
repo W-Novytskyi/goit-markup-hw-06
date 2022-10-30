@@ -336,6 +336,7 @@ padding: 94px 0 0;
 }
 
 .form-button {
+    display: block;
     margin: 0 auto;
     padding: 10px 52px;
     font-family: inherit;
